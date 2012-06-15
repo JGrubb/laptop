@@ -11,7 +11,7 @@ export PATH='/usr/local/bin:$PATH'" >> ~/.zshrc
   source ~/.zshrc
 
 echo "installing mysql"
-  brew install maysql
+  brew install mysql
 
 echo "Installing Redis, a good key-value database ..."
   brew install redis
