@@ -1,7 +1,4 @@
-# This is my MySQL fork of laptop because I'm sure there's not one out there anywhere.
-
-Laptop
-======
+## This is my MySQL fork of laptop because I'm sure there's not one out there anywhere.
 
 Laptop is a script to set up your Max OS X laptop as a Rails development machine.
 
