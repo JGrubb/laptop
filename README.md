@@ -1,3 +1,5 @@
+# This is my MySQL fork of laptop because I'm sure there's not one out there anywhere.
+
 Laptop
 ======
 
@@ -15,7 +17,7 @@ if you're on Lion (OS X 10.7).
 
 Run the script:
 
-    bash < <(curl -s https://raw.github.com/thoughtbot/laptop/master/mac)
+    bash < <(curl -s https://raw.github.com/jgrubb/laptop/master/mac)
 
 What it sets up
 ---------------
